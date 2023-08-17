@@ -1,0 +1,5 @@
+# Football-Transfers-Analysis-in-Excel
+This Football Transfers Analysis in Excel project involves extensive data analysis of the intricacies and economic patterns within international football (‘soccer’ in the US) transfers. It delves into the movement of players from one association to another, offering an in-depth overview of the economics of international football.
+Using a robust football dataset spanning two seasons (2021/2022 and 2022/2023), I have performed several key tasks in Excel—including data preprocessing and manipulation, filtering, working proficiently with Excel functions, and data visualization.
+I have mapped transfers to and from countries across different associations, created summary tables to illustrate these transfers, computed net transfer movements, and obtained the total dollar amounts for the respective transactions.
+This Excel project offers a unique opportunity to blend the passion for football with the excitement of data-driven insights, fostering a deeper understanding of the global football economy. This Excel project promises intriguing findings and a new perspective on this captivating game.
